@@ -1,0 +1,13 @@
+body { 
+    background: url("images/collins-pocket.jpg") no-repeat fixed center; 
+}
+img {
+    max-width: 95%;
+    max-height: 700px;
+}
+div.content {
+    text-align: center;
+}
+div.content>h2 {
+    color: white;
+}
