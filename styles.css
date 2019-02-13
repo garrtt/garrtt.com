@@ -3,7 +3,7 @@ body {
 }
 img {
     max-width: 95%;
-    height: 700px;
+    max-height: 700px;
 }
 div.content {
     text-align: center;
