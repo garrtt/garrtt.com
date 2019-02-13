@@ -3,11 +3,18 @@ body {
 }
 img {
     max-width: 95%;
-    max-height: 700px;
+    height: 700px;
 }
 div.content {
     text-align: center;
-}
-div.content>h2 {
     color: white;
 }
+a {
+    color: white;
+}
+
+#myCanvas {
+    /* background: white; */
+    border:1px solid #000000;
+}
+
