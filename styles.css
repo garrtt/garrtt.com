@@ -2,10 +2,13 @@ html {
     background: url("images/collins-pocket.jpg") no-repeat fixed center; 
 }
 img {
-    max-width: 95%;
     max-height: 700px;
 }
 section {
+    background: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -16,7 +19,6 @@ section {
 a, h2{
     text-align: center;
     color: white;
-    align-content:  center;
 }
 
 #myCanvas {
