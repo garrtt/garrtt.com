@@ -1,16 +1,22 @@
-body { 
+html { 
     background: url("images/collins-pocket.jpg") no-repeat fixed center; 
 }
 img {
     max-width: 95%;
     max-height: 700px;
 }
-div.content {
+section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+a, h2{
     text-align: center;
     color: white;
-}
-a {
-    color: white;
+    align-content:  center;
 }
 
 #myCanvas {
