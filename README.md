@@ -1,3 +1,3 @@
-# garrtt.github.io
+# garrtt.com
 
-My personal website garrtt.com
+what should I do
